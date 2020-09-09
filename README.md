@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**GKavyaReddy/GKavyaReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am G Kavya Reddy.My main interest lies in Web development.I have a basic knowledge on Python.I am always curious to learn new things.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Web Development Project.
+- 🌱 I’m currently learning **Python**.
+- 👯 I’m looking to collaborate on any **Web Development Project**.
+- 🤔 I’m looking for help with Python.
+- 💬 Ask me about HTML, CSS, and C.
+- 📫 ***How to reach me***:You can directly mail me on this [kavyareddy2810@gmail.com](email) .
+- 😄 ***Pronouns***: You can give one.
+- ⚡ ***Fun fact***: I am done.
+
