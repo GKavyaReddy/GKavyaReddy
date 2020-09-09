@@ -8,7 +8,7 @@ I am G Kavya Reddy.My main interest lies in Web development.I have a basic knowl
 - 👯 I’m looking to collaborate on any **Web Development Project**.
 - 🤔 I’m looking for help with Python.
 - 💬 Ask me about HTML, CSS, and C.
-- 📫 ***How to reach me***:You can directly mail me on this [kavyareddy2810@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKjDczGHBbhtrMFnBdjwKNTGLJgvpXRdhCSjsrrZRnQDSBjJdWcCXLdmhtXnbpTndrqVFdB) .
+- 📫 ***How to reach me***:You can directly mail me on this [kavyareddy2810@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=kavyareddy2810@gmail.com) .
 - 😄 ***Pronouns***: You can give one.
 - ⚡ ***Fun fact***: I am done.
 
