@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am G Kavya Reddy.My main interest lies in Web development.I have a basic knowledge on Python.I am always curious to learn new things.
+I am G Kavya Reddy.My main interest lies in Web development.I have a basic knowledge on Java.I am always curious to learn new things.
 
 
 - 🔭 I’m currently working on Web Development Project.
