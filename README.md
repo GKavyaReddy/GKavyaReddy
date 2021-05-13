@@ -4,7 +4,7 @@ I am G Kavya Reddy.My main interest lies in Web development.I have a basic knowl
 
 
 - 🔭 I’m currently working on Web Development Project.
-- 🌱 I’m currently learning **Python**.
+- 🌱 I’m currently learning **Java**.
 - 👯 I’m looking to collaborate on any **Web Development Project**.
 - 🤔 I’m looking for help with Python.
 - 💬 Ask me about HTML, CSS, and C.
